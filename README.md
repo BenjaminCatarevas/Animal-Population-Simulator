@@ -14,3 +14,7 @@ There are also data visualization implementations in this simulation, through th
 - Line graph, which plots both populations on an x-y based graph, where x is time and y is the population for each population
 - Bar graph, which plots each population as it grows and decays
 - Phase-space graph, which plots rabbits versus foxes on an x-y graph, where x is rabbits and y is foxes. The phase-space graph also scales itself in case it reaches a new maximum that would otherwise go off the graph.
+
+# How To Use
+1. Download the Processing IDE [here](https://processing.org/download/)
+2. Open the .pde file in the Processing IDE, then click the Run button.
