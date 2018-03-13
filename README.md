@@ -1,4 +1,4 @@
-# Lotka-Volterra-Simulation
+# Lotka-Volterra-Visualizer
 This is a simulation of animal population growth and decay using Processing, a subset of Java. This is implemented through equations known as the Lotka-Volterra Equations. In this simulation, rabbits and foxes are the two chosen animal populations.
 The interesting aspect of the Lotka-Volterra equations is that when ran, given the right settings, a cycle begins to occur, where history repeats itself. The simulator comes built in with such settings.
 
